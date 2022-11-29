@@ -1,2 +1,2 @@
 # computation
-Model Description <strong>bold text</strong>
+<strong>Model Description</strong>
