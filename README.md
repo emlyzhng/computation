@@ -1,9 +1,2 @@
 # computation
-
-'''
-{
-  "firstName": "John",
-  "lastName": "Smith",
-  "age": 25
-}
-'''
+Model Description <strong>bold text</strong>
