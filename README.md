@@ -15,4 +15,4 @@
 <p><strong>Essential Duties and Responsibilities:</strong> Including the following. Other duties may be assigned.
  
 1. Lie in bed up to 12 hours a day
-2. 
+2. C
