@@ -1,5 +1,3 @@
-# computation
-
-<strong>Model Description</strong>
+# <strong>Model Description</strong>
 
 <p><strong>Title</strong>
