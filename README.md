@@ -1,2 +1,3 @@
 # computation
-emily
+Emily (Le Zi) Zhang
+Made in
