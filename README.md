@@ -7,3 +7,5 @@
 <p><strong>Class:</strong> 3A
 
 <p><strong>Status:</strong> Healthy
+
+<p><strong>Release Date:</strong> 18/03/03
